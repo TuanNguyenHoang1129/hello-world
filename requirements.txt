@@ -1,0 +1,8 @@
+Function==1.2.0
+matplotlib==3.7.1
+numpy==1.23.5
+pandas==2.0.1
+pandas_ta==0.3.14b0
+plotly==5.15.0
+stockstats==0.6.0
+vectorbt==0.25.4
